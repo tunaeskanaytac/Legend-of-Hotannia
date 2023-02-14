@@ -1,2 +1,3 @@
-{"version":"1.2.8","db_type":"idb","start_time":"2023-02-14T11:07:55.376Z","db_info":{"doc_count":0,"update_seq":0,"idb_attachment_format":"binary","db_name":"magic","auto_compaction":false,"adapter":"idb"}}
-{"seq":0}
+{"version":"1.2.8","db_type":"idb","start_time":"2023-02-14T07:33:35.821Z","db_info":{"doc_count":1,"update_seq":1,"idb_attachment_format":"binary","db_name":"magic","auto_compaction":false,"adapter":"idb"}}
+{"docs":[{"extraFields":[{"id":"name","value":"Touch of Death"},{"id":"parentDoc","value":""},{"id":"documentColor","value":""},{"id":"documentBackgroundColor","value":""},{"id":"finishedSwitch","value":""},{"id":"minorSwitch","value":""},{"id":"deadSwitch","value":""},{"id":"categorySwitch","value":""},{"id":"order","value":""},{"id":"tags","value":[]},{"id":"categoryDescription","value":""}],"hierarchicalPath":"Schools of Magic/Magical groups","icon":"fas fa-hat-wizard","id":"353f21ad-481a-4e33-9fd2-b9f8816c6f7a","type":"magic","url":"/project/display-content/magic/353f21ad-481a-4e33-9fd2-b9f8816c6f7a","_id":"353f21ad-481a-4e33-9fd2-b9f8816c6f7a","_rev":"1-7fb615f5dd9e359a47ffca66831d8142"}]}
+{"seq":1}
