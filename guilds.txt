@@ -1,2 +1,2 @@
-{"version":"1.2.8","db_type":"idb","start_time":"2023-02-12T22:07:53.437Z","db_info":{"doc_count":0,"update_seq":0,"idb_attachment_format":"binary","db_name":"guilds","auto_compaction":false,"adapter":"idb"}}
+{"version":"1.2.8","db_type":"idb","start_time":"2023-02-14T09:27:43.604Z","db_info":{"doc_count":0,"update_seq":0,"idb_attachment_format":"binary","db_name":"guilds","auto_compaction":false,"adapter":"idb"}}
 {"seq":0}
