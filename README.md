@@ -1,2 +1,2 @@
-# Legend-of-Hotannia
+# LegendofHotannia
 Lore of the Hotannia
